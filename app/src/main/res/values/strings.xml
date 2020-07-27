@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Database Test</string>
+    <string-array name="gender_array">
+        <item></item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
